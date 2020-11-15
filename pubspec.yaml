@@ -9,10 +9,10 @@ environment:
   sdk: ">=2.2.2 <3.0.0"
 
 dependencies:
-  meta: ^1.2.3
+  meta: ^1.1.8
   analyzer: ^0.39.10
   build: ^1.2.2
-  logging: ^0.11.4
+  logging: ^0.11.3+2
   source_gen: ^0.9.8
   chopper: ^3.0.6
   code_builder: ^3.5.0
